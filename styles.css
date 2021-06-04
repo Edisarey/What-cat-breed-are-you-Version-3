@@ -1,0 +1,165 @@
+body {
+    background-color: #FECFCA;
+    background-image: url("https://i.pinimg.com/originals/ef/2b/d5/ef2bd574dbbc55f0479a5e187e7ae3a5.jpg");
+}
+
+.kitimg {
+    height: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding: 20px;
+    background: black;
+    border: 15px solid white;
+    border-radius: 65%;
+
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+
+}
+
+.info-one {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+.info-two {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+.info-three {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+.age-input {
+    color: green;
+}
+
+.month-input {
+    color: green;
+}
+
+.personality-input {
+    color: green;
+}
+
+p {
+    font-style: oblique;
+    font-weight: bold;
+    text-align: center;
+}
+
+.result {
+    text-align: center;
+    color: blue;
+}
+
+button {
+    color: #051094;
+}
+
+h2 {
+    text-align: center;
+    color: #051094;
+}
+
+.age-button {
+    color: #CF0029;
+}
+
+.month-button {
+    color: #CF0029;
+}
+
+.personality-button {
+    color: #CF0029;
+}
+
+.catimg {
+    flex-direction: column;
+    border: 8px double white;
+    padding: 10px;
+    margin: 10px;
+    width: 160px;
+    height: 100px;
+    background-color: black;
+}
+
+.cats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Ocicat {
+    width: 250px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 7px solid white;
+}
+
+.Singapura {
+    width: 350px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 7px solid white;
+}
+
+
+.Maine {
+    width: 340px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 7px solid white;
+}
+
+.Siamese {
+    width: 340px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 7px solid white;
+}
+
+.message {
+    font-size: 50px;
+    text-align: center;
+}
+
+.Cry {
+
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 7px solid white;
+}
+
+.Crytwo {
+
+    width: 450px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 7px solid white;
+}
+
+.given-list {
+    font-family: 'Playfair Display', serif;
+}
